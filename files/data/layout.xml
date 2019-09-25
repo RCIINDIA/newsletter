@@ -2,7 +2,7 @@
 <layout version="4.2.1" name="tech" category="float">
   <megazine>
     <title color="3355443" font="Verdana" size="12" bold="true" underline="false" italic="false" url=""/>
-    <megazinebg background="image(files/assets/skin/bg.png)" backgroundrepeat="true"/>
+    <megazinebg background="color(0)"/>
   </megazine>
   <navigation>
     <title color="3355443" font="Verdana" size="12" bold="true" underline="false" italic="false" url=""/>
