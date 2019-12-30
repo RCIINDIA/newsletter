@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<book version="4.2.1" title="RCI India Newsletter Jul-Sep 2019" plugins="navigationbar, keyboardnavigation, links, password, pdflinks, anchors, index, titles, search, gestures, draw, tuio, slideshow,javascript,swfaddress,print,thumbnails,bookmarks,select,musicplayers, toc, share, about, bookcase" pagewidth="1232" pageheight="1600" searchindex="files/search_index/en.txt" stiffskew="1" guipath="files/gui/" asulextension="xml" lang="en,jp,fr,de,ar" langpath="files/langs/" flagpath="files/flags/" pluginpath="files/plugins/" priorities="vid(20); snd(15); area(5); nav(5); txt(5); gal(30)" sndpath="files/snd/" dragspeed="0.3" password="" pwstart="0" thumbloadtext="Loading" zoommaxscale="2" zoomminscale="0.1" zoomsnap="0.25, 0.5, 1, 2, 4, 8" zoomstep="" slidestart="false" slidedelay="3" sliderepeat="false" toc="files/data/toc.xml" bookcase="files/data/bookcase.xml" download="" minimode="false" miniwidth="400" miniheight="300" layout="files/data/layout.xml" buttoncfg="files/data/buttoncfg.xml" about="files/data/about.xml" abc="cidc">
+<book version="4.2.1" title=" RCI India Newsletter Oct - Dec 2019" plugins="navigationbar, keyboardnavigation, links, password, pdflinks, anchors, index, titles, search, gestures, draw, tuio, slideshow,javascript,swfaddress,print,thumbnails,bookmarks,select,musicplayers, toc, share, about, bookcase" pagewidth="1232" pageheight="1600" searchindex="files/search_index/en.txt" stiffskew="1" guipath="files/gui/" asulextension="xml" lang="en,jp,fr,de,ar" langpath="files/langs/" flagpath="files/flags/" pluginpath="files/plugins/" priorities="vid(20); snd(15); area(5); nav(5); txt(5); gal(30)" sndpath="files/snd/" dragspeed="0.3" password="" pwstart="0" thumbloadtext="Loading" zoommaxscale="2" zoomminscale="0.1" zoomsnap="0.25, 0.5, 1, 2, 4, 8" zoomstep="" slidestart="false" slidedelay="3" sliderepeat="false" toc="files/data/toc.xml" bookcase="files/data/bookcase.xml" download="" minimode="true" miniwidth="400" miniheight="300" layout="files/data/layout.xml" buttoncfg="files/data/buttoncfg.xml" about="files/data/about.xml" abc="cidc">
   <background>
     <box name="" anchors="0,0,ph,pw"/>
   </background>
@@ -267,8 +267,6 @@
         <src lang="en">files/pages/en/low/page20.swf</src>
       </img>
     </page>
-  </chapter>
-  <chapter pagewidth="1232" pageheight="1600">
     <page stiffskew="1">
       <img width="1232" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
         <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
@@ -293,6 +291,86 @@
         <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
         <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
         <src lang="en">files/pages/en/low/page22.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1232" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en">files/pages/en/low/page23.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1232" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en">files/pages/en/low/page24.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1232" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en">files/pages/en/low/page25.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1232" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en">files/pages/en/low/page26.swf</src>
+      </img>
+    </page>
+  </chapter>
+  <chapter pagewidth="1232" pageheight="1600">
+    <page stiffskew="1">
+      <img width="1232" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en">files/pages/en/low/page27.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1232" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en">files/pages/en/low/page28.swf</src>
       </img>
     </page>
   </chapter>

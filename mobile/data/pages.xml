@@ -22,4 +22,10 @@
   <page id="20" shadow="true" source="content/pages/page20.jpg" medium="content/medium/page20.jpg" thumb="content/thumbs/page20.jpg"/>
   <page id="21" shadow="true" source="content/pages/page21.jpg" medium="content/medium/page21.jpg" thumb="content/thumbs/page21.jpg"/>
   <page id="22" shadow="true" source="content/pages/page22.jpg" medium="content/medium/page22.jpg" thumb="content/thumbs/page22.jpg"/>
+  <page id="23" shadow="true" source="content/pages/page23.jpg" medium="content/medium/page23.jpg" thumb="content/thumbs/page23.jpg"/>
+  <page id="24" shadow="true" source="content/pages/page24.jpg" medium="content/medium/page24.jpg" thumb="content/thumbs/page24.jpg"/>
+  <page id="25" shadow="true" source="content/pages/page25.jpg" medium="content/medium/page25.jpg" thumb="content/thumbs/page25.jpg"/>
+  <page id="26" shadow="true" source="content/pages/page26.jpg" medium="content/medium/page26.jpg" thumb="content/thumbs/page26.jpg"/>
+  <page id="27" shadow="true" source="content/pages/page27.jpg" medium="content/medium/page27.jpg" thumb="content/thumbs/page27.jpg"/>
+  <page id="28" shadow="true" source="content/pages/page28.jpg" medium="content/medium/page28.jpg" thumb="content/thumbs/page28.jpg"/>
 </pages>
